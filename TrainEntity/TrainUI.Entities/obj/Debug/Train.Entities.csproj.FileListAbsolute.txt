@@ -1,0 +1,16 @@
+F:\TrainEntity\TrainUI.Entities\bin\Debug\TrainUI.Entities.dll
+F:\TrainEntity\TrainUI.Entities\bin\Debug\TrainUI.Entities.pdb
+F:\TrainEntity\TrainUI.Entities\obj\Debug\TrainUI.Entities.dll
+F:\TrainEntity\TrainUI.Entities\obj\Debug\TrainUI.Entities.pdb
+F:\TrainEntity\TrainUI.Entities\obj\Debug\Train.Entities.csprojResolveAssemblyReference.cache
+F:\TrainEntity\TrainUI.Entities\bin\Debug\Train.DatabaseConnection.dll
+F:\TrainEntity\TrainUI.Entities\bin\Debug\Train.DatabaseConnection.pdb
+E:\FinallyC#PROJECT\TrainEntity\TrainUI.Entities\bin\Debug\TrainUI.Entities.dll
+E:\FinallyC#PROJECT\TrainEntity\TrainUI.Entities\bin\Debug\TrainUI.Entities.pdb
+E:\FinallyC#PROJECT\TrainEntity\TrainUI.Entities\bin\Debug\Train.DatabaseConnection.dll
+E:\FinallyC#PROJECT\TrainEntity\TrainUI.Entities\bin\Debug\Train.DatabaseConnection.pdb
+E:\FinallyC#PROJECT\TrainEntity\TrainUI.Entities\obj\Debug\Train.Entities.csprojAssemblyReference.cache
+E:\FinallyC#PROJECT\TrainEntity\TrainUI.Entities\obj\Debug\Train.Entities.csproj.CoreCompileInputs.cache
+E:\FinallyC#PROJECT\TrainEntity\TrainUI.Entities\obj\Debug\Train.Entities.csproj.CopyComplete
+E:\FinallyC#PROJECT\TrainEntity\TrainUI.Entities\obj\Debug\TrainUI.Entities.dll
+E:\FinallyC#PROJECT\TrainEntity\TrainUI.Entities\obj\Debug\TrainUI.Entities.pdb
