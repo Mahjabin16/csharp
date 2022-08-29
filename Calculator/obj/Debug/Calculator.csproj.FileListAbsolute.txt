@@ -1,0 +1,20 @@
+D:\New folder\Calculator\bin\Debug\Calculator.exe.config
+D:\New folder\Calculator\bin\Debug\Calculator.exe
+D:\New folder\Calculator\bin\Debug\Calculator.pdb
+D:\New folder\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\New folder\Calculator\obj\Debug\Calculator.Form1.resources
+D:\New folder\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\New folder\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\New folder\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\New folder\Calculator\obj\Debug\Calculator.exe
+D:\New folder\Calculator\obj\Debug\Calculator.pdb
+C:\Users\HP\Downloads\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\HP\Downloads\Calculator\bin\Debug\Calculator.exe
+C:\Users\HP\Downloads\Calculator\bin\Debug\Calculator.pdb
+C:\Users\HP\Downloads\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\HP\Downloads\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\HP\Downloads\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Calculator\obj\Debug\Calculator.exe
+C:\Users\HP\Downloads\Calculator\obj\Debug\Calculator.pdb
